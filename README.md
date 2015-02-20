@@ -1,4 +1,4 @@
-Issue tracker for CocoaPods with Swift issues.
+Old Issue tracker for CocoaPods with Swift issues. Please submit issues to [CocoaPods/CocoaPods](http://github.com/cocoapods/cocoapods/issues) now.
 
 A common question regarding CocoaPods and Swift is which OS versions are supported.
 
